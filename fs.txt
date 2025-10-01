@@ -1,5 +1,5 @@
-A:\dev\__\_\1.bgif\gif\bb1.jpg
-A:\dev\__\_\1.bgif\gif\bb2.jpg
-A:\dev\__\_\1.bgif\gif\bb3.jpg
-A:\dev\__\_\1.bgif\mp4\gi5.mp4
-A:\dev\__\_\1.bgif\mp4\gi3.mp4
+A:\dev\__\1.bgif\gif\bb1.jpg
+A:\dev\__\1.bgif\gif\bb2.jpg
+A:\dev\__\1.bgif\gif\bb3.jpg
+A:\dev\__\1.bgif\gif\bb4.jpg
+A:\dev\__\1.bgif\gif\bb5.jpg
